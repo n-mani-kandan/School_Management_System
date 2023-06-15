@@ -1,0 +1,118 @@
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\PT PROJECT.dll.config
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\PT PROJECT.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\PT PROJECT.pdb
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csc.exe
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csc.exe.config
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csc.rsp
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csi.exe
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csi.exe.config
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\csi.rsp
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.AppContext.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Console.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Net.Http.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\vbc.exe
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\vbc.exe.config
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\vbc.rsp
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.AssemblyReference.cache
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.CopyComplete
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.dll
+C:\Users\Mani\source\repos\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.pdb
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\PT PROJECT.dll.config
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\PT PROJECT.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\PT PROJECT.pdb
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csc.exe
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csc.exe.config
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csc.rsp
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csi.exe
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csi.exe.config
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\csi.rsp
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.AppContext.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Console.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Net.Http.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\vbc.exe
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\vbc.exe.config
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\vbc.rsp
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.AssemblyReference.cache
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.CoreCompileInputs.cache
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.csproj.CopyComplete
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.dll
+C:\Mani\PEC\5th Sem Pec\PT\PT Lab\Project\School Management 20CS2003\PT PROJECT\PT PROJECT\obj\Debug\PT PROJECT.pdb
